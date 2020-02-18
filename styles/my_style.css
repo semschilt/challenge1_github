@@ -23,3 +23,23 @@ body{
 img {
 	position: absolute;
 }
+
+
+.block1 {
+	width: 150px;
+	height: 150px;
+	background-color: white;
+	opacity: 0.4;
+}
+
+.title {
+	font-size: large;
+	color: #222222;
+	font-weight: 400;
+}
+
+.text {
+	font-size: large;
+	color: #222222;
+	font-weight: 200;
+}
