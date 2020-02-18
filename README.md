@@ -19,7 +19,6 @@ Download het voorbeeld website (zie: Slides en voorbeelden) en plaats deze in de
     ls
     ```
 Door deze command weet je waar je zit in de mappen structuur. Dit ziet er ongeveer zo uit.
-    
     ```
     :challenge1_github semvanderschilt$ ls
     README.md       images          index.html      scripts         styles
