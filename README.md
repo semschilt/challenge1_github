@@ -19,10 +19,10 @@ Download het voorbeeld website (zie: Slides en voorbeelden) en plaats deze in de
     ls
     ```
 Door deze command weet je waar je zit in de mappen structuur. Dit ziet er ongeveer zo uit.
-    ```
-    :challenge1_github semvanderschilt$ ls
+
+    :challenge1_github semvanderschilt$ ls 
     README.md       images          index.html      scripts         styles
-    ```
+
 5. Nu je weet in welke map je zit kan je de repository aanmaken. Je plaats in de terminal dit command:
     ```
     git clone (plaats de kopie hier)
